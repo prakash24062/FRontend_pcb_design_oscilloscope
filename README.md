@@ -7,3 +7,5 @@ this is repository for creating FRontend of oscilloscope. Files are reference sc
 1-11-2025: for doing signal integrity check using Keysight ADS ,I will refer to this tutorial<a href="https://www.youtube.com/watch?v=_UM_Ku_G7do&t=7885s">link</a>
 <br>
 <img src="Screenshot 2025-11-01 212317.png">
+<br>
+for making the backend which includes FPGA ,I will folow Rehsd board bringup(XILINX ARTIX_&) <a href="https://www.rehsdonline.com/post/xilinx-xc7z020-1clg484i-zynq-7000-soc-artix-7-fpga">  link</a>
