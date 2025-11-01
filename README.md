@@ -6,4 +6,4 @@ this is repository for creating FRontend of oscilloscope. Files are reference sc
 <br>
 1-11-2025: for doing signal integrity check using Keysight ADS ,I will refer to this tutorial<a href="https://www.youtube.com/watch?v=_UM_Ku_G7do&t=7885s">link</a>
 <br>
-<img src=
+<img src="Screenshot 2025-11-01 212317.png">
