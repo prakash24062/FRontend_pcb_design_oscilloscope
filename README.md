@@ -9,3 +9,5 @@ this is repository for creating FRontend of oscilloscope. Files are reference sc
 <img src="Screenshot 2025-11-01 212317.png">
 <br>
 for making the backend which includes FPGA ,I will follow Rehsd board bringup(XILINX ARTIX_7) <a href="https://www.rehsdonline.com/post/xilinx-xc7z020-1clg484i-zynq-7000-soc-artix-7-fpga">  link</a>
+<br>
+3-11-25: orcad capture installed and schematic symbol was made
